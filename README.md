@@ -13,3 +13,5 @@ GraphPathFinder-SFML is a C++ application that visualizes graphs and computes th
 - **C++**
 - **SFML** (for graphics and visualization)
 - **Graph Theory Algorithms**
+
+![Graph in action](output.gif)
