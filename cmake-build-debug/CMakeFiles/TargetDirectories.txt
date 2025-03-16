@@ -1,0 +1,3 @@
+/Users/majestic/Desktop/lab6SFML/cmake-build-debug/CMakeFiles/lab6SFML.dir
+/Users/majestic/Desktop/lab6SFML/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/majestic/Desktop/lab6SFML/cmake-build-debug/CMakeFiles/rebuild_cache.dir

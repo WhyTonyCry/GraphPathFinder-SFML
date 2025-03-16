@@ -1,0 +1,4 @@
+Amber -> Svetlogorsk : 2
+Svetlogorsk -> Kolosovka : 1
+Kolosovka -> Primorsk : 1
+Primorsk -> Kaliningrad : 1

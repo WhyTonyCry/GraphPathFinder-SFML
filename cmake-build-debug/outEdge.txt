@@ -1,0 +1,4 @@
+Primorsk -> Kolosovka : 24
+Kolosovka -> Svetlogorsk : 27
+Svetlogorsk -> Pionersky : 5
+Pionersky -> Zelenogradsk : 24
